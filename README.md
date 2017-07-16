@@ -3,7 +3,7 @@
 # 在Window环境中安装OpenCV3
 ## 用最笨的办法在win7 64位中Python2.7环境下安装OpenCV3
 
-### 0下载若干文件：
+### 0下载若干文件:
   #### 1)	python2.7 64位
   #### 2)	OpenCV3.1.0
   #### 3)	下载numpy+mkl 64位（http://www.lfd.uci.edu/~gohLke/pythonlibs/#numpy），文件名：numpy-1.11.3+mkl-cp27-cp27m-win_amd64.whl
